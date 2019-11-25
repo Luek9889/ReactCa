@@ -1,9 +1,9 @@
 <?php
 
   // DB Details -- NB no exception handling included
-  $db_name = 'seb_products';
-  $db_user = 'root';
-  $db_pass = '';
+  $db_name = 'luke_products';
+  $db_user = 'luke2001';
+  $db_pass = 'Luke22';
 
   try {
 
