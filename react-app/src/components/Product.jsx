@@ -1,8 +1,8 @@
 import React           from 'react';
 import AddToCartButton from './AddToCartButton';
 import * as Config     from '../config.json';
-
 import './Product.css';
+import  '../lib/sass/Products.scss';
 
 class Product extends React.Component {
 
